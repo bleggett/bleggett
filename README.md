@@ -41,7 +41,7 @@ Go/Javascript/Terraform/Shell/Python are what I work with daily.
 ### Dumb thing I'm most proud of doing
 
 - Despite having no soldering or electronics experience, I replaced all the
-  capacitors in an old CRT television without electrocuting myself, and it
+  capacitors in the guts of an old CRT television without electrocuting myself, and it
   worked. I now use this television to play 90's-era video game consoles.
 
 ### What I think is important
