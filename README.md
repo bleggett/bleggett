@@ -29,6 +29,7 @@ Go/Javascript/Terraform/Shell/Python are what I work with daily.
 
 - Getting past the borrow checker hump with Rust
 - Getting "good at" Rust
+- Shaving yaks with Emacs (using Vim keybinds)
 - Fail to keep up with quantum computing theory
 - Read books on macroeconomics
 - Collect, repair, and modify 90's-era video game consoles
