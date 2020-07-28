@@ -40,10 +40,10 @@ Go/Javascript/Terraform/Shell/Python are what I work with daily.
 ### Dumb thing I'm most proud of doing
 
 - Despite having no soldering or electronics experience, I replaced all the
-  capacitors in a CRT television once without electrocuting myself, and it
+  capacitors in an old CRT television without electrocuting myself, and it
   worked. I now use this television to play 90's-era video game consoles.
 
 ### What I think is important
 
-- Keeping the joy and fun and sense of play at the center of all work, personal
+- Keeping the joy, fun and sense of play and discovery at the center of all work, personal
   or professional, and protecting the right of others to keep it there too.
