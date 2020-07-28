@@ -1,18 +1,17 @@
 ### Backstory
 
-Things I understand are way less exciting than things I don't understand.
-
-As a kid I got a copy of RPG Maker for the original Playstation and realized I
+- Things I understand are way less exciting than things I don't understand.
+- As a kid I got a copy of RPG Maker for the original Playstation and realized I
 was spending weeks (ab)using the simple logic editor in that game to build
-things it was never meant to build - my dad said "hey that sounds like computer
-programming maybe try that" - Checked out some Dummies books from the library
-and taught myself coding. Taught myself Linux in the same way - checking out a
-Red Hat 7 book from the library with the install CDs still in the back and just
-screwing around with what you could do with a "free OS" taught me a ton of basic
-operating system theory and a few years later I was compiling my own Linux
-kernels with my own kconfig.
-
-Open-source is the best software development paradigm I've come across - it's
+things it was never meant to build
+- My dad said "hey that sounds like computer programming maybe try that"
+- Checked out some Dummies books from the library and taught myself coding.
+- Taught myself Linux in the same way - checking out a Red Hat 7 book from the
+library with the install CDs still in the back and just screwing around with
+what you could do with a "free OS" taught me a ton of basic operating system
+theory.
+- A few years later I was compiling my own Linux kernels with my own kconfig.
+- Open-source is the best software development paradigm I've come across - it's
 the world I grew up in and it's the world I feel most comfortable in.
 
 ### What I do for money right now
