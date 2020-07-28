@@ -11,7 +11,7 @@ library with the install CDs still in the back and just screwing around with
 what you could do with a "free OS" taught me a ton of basic operating system
 theory.
 - A few years later I was compiling my own Linux kernels with my own kconfig.
-- A few years later got a BS in Software Engineering.
+- A few more years later got a BS in Software Engineering.
 - Open-source is the best software development paradigm I've come across - it's
 the world I grew up in and it's the world I feel most comfortable in.
 
