@@ -25,17 +25,17 @@ peers of being creative, intuitive, pessimistic, and a disciplined engineer.
 
 Go/Javascript/Terraform/Shell/Python are what I work with daily.
 
-### What I do for fun right now
+### What I'm doing for fun right now
 
 - Getting past the borrow checker hump with Rust
 - Getting "good at" Rust
 - Shaving yaks with Emacs (using Vim keybinds)
-- Fail to keep up with quantum computing theory
-- Read books on macroeconomics
-- Collect, repair, and modify 90's-era video game consoles
-- Play old Japanese vertically-scrolling shoot-em-ups, badly
-- Pretend to be a race car driver and watch F1
-- Listen to 1978-1985-era UK post-punk
+- Failing to keep up with quantum computing theory
+- Reading books on macroeconomics
+- Collecting, repairing, and modifying 90's-era video game consoles
+- Playing old Japanese vertically-scrolling shoot-em-ups, badly
+- Pretending to be a race car driver and watching F1
+- Listening to 1978-1985-era UK post-punk
 - Keeping up with the burgeoning FPGA-based video game hardware emulation scene.
 
 ### Dumb thing I'm most proud of doing
