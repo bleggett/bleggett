@@ -5,12 +5,12 @@
 was spending weeks (ab)using the simple logic editor in that game to build
 things it was never meant to build
 - My dad said "hey that sounds like computer programming maybe try that"
-- Checked out some Dummies books from the library and taught myself coding.
+- Checked out some Dummies books from the library and found coding fun.
 - Taught myself Linux in the same way - checking out a Red Hat 7 book from the
 library with the install CDs still in the back and just screwing around with
-what you could do with a "free OS" taught me a ton of basic operating system
+~how you could break~ what you could do with a "free OS" taught me a ton of basic operating system
 theory.
-- A few years later I was compiling my own Linux kernels with my own kconfig.
+- A few years later I was compiling my own Linux kernels with my own kconfig for kicks.
 - A few more years later got a BS in Software Engineering.
 - Open-source is the best software development paradigm I've come across - it's
 the world I grew up in and it's the world I feel most comfortable in.
