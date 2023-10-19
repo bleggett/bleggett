@@ -19,9 +19,8 @@ the world I grew up in and it's the world I feel most comfortable in.
 
 Architect, designer, and programming language polyglot most at home with an
 open-source stack in a Linux/Unix/macOS environment. Comprehending, constructing
-and simplifying complex and distributed systems is my jam. As a matter of
-practice, suspect my code before I suspect others’ code. Have been accused by
-peers of being creative, intuitive, pessimistic, and a disciplined engineer.
+and simplifying complex and distributed systems is my jam. Have been accused by
+peers of being creative, intuitive, pessimistic, and a disciplined engineer, but I would like to take this opportunity to clear my name and reject those accusations. Except maybe "pessimistic", I'll cop to that.
 
 Go/Javascript/Terraform/Shell/Python are what I work with daily.
 
