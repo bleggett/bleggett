@@ -40,7 +40,7 @@ Go/Javascript/Terraform/Shell/Python are what I work with daily.
 
 - Despite having no soldering or electronics experience, I replaced all the
   capacitors in the guts of an old CRT television without electrocuting myself, and it
-  worked. I now use this television to play 90's-era video game consoles. I will die proud.
+  worked. I now use this television to play 90's-era video game consoles. Because I have done this, I will die a proud man.
 
 ### What I think is important
 
