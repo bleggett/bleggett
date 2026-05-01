@@ -23,24 +23,13 @@ peers of being creative, intuitive, pessimistic, and a disciplined engineer, but
 
 Rust/Go/Javascript/Terraform/Shell/Python are what I work with daily.
 
-### What I'm doing for fun right now
-
-- Getting past the borrow checker hump with Rust
-- Getting "good at" Rust
-- Shaving yaks with Emacs (using Vim keybinds)
-- Failing to keep up with quantum computing theory
-- Reading books on macroeconomics
-- Collecting, repairing, and modifying 90's-era video game consoles
-- Playing old Japanese vertically-scrolling shoot-em-ups, badly
-- Pretending to be a race car driver and watching F1
-- Listening to 1978-1985-era UK post-punk
-- Keeping up with the burgeoning FPGA-based video game hardware emulation scene.
-
 ### Dumb thing I'm most proud of doing
 
 - Despite having no soldering or electronics experience, I replaced all the
   capacitors in the guts of an old CRT television without electrocuting myself, and it
-  worked. I now use this television to play 90's-era video game consoles. Because I have done this, and *not* died, I will die a proud man.
+  worked. I now use this television to play 90's-era video game consoles. Because I have done this, and *not* died, I will die a proud man. 
+  
+  Unless I do it again and die a slightly younger (but still proud) man.
 
 ### What I think is important
 
