@@ -46,3 +46,7 @@ Rust/Go/Javascript/Terraform/Shell/Python are what I work with daily.
 
 - Keeping the joy, fun and sense of play and discovery at the center of all work, personal
   or professional, and protecting the right of others to keep it there too.
+
+### Where I Keep Code
+
+I prefer to keep personal projects on https://tangled.org and Codeberg, using Github only as a mirror for those, or for runner-heavy open repos where Microsoft can subsidize the runner compute.
